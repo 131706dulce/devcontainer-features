@@ -7,7 +7,7 @@ Terraspace wrapper for terraform projects
 
 ```json
 "features": {
-    "ghcr.io/flexwie/devcontainer-features/terraspace:1": {}
+    "ghcr.io/131706dulce/devcontainer-features/terraspace:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Terraspace wrapper for terraform projects
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/flexwie/devcontainer-features/blob/main/src/terraspace/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/131706dulce/devcontainer-features/blob/main/src/terraspace/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
